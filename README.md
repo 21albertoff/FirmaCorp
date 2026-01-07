@@ -36,7 +36,10 @@ Este proyecto web permite generar una firma corporativa personalizada de manera 
 ## Licencia
 
 Este proyecto es de código abierto bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/21albertoff/FirmaCorp/blob/main/LICENSE) para más detalles. 
+
 ¡Siéntete libre de contribuir a este proyecto o reportar cualquier problema que encuentres!
+
+
 
 
 
